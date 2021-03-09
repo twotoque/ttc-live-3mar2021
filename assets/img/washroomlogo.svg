@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="164.04167mm"
+   height="151.34178mm"
+   viewBox="0 0 164.04167 151.34178"
+   version="1.1"
+   id="svg827"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="washroomlogo.svg">
+  <defs
+     id="defs821" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="185.94372"
+     inkscape:cy="169.91043"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata824">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-23.812501,-73.162444)">
+    <g
+       id="g852"
+       transform="matrix(0.26458333,0,0,0.26458333,23.803535,73.151713)"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1">
+      <circle
+         id="circle829"
+         r="46.545212"
+         cy="46.58577"
+         cx="130.9501"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1" />
+      <path
+         id="path831"
+         d="m 124.50539,388.15534 v 161.83399 c -0.24346,29.40221 -44.010414,29.40221 -44.397086,0 V 388.15534 H 22.821751 L 84.404788,171.89962 H 74.379644 L 38.57554,295.0651 C 29.524278,322.30474 -7.3109962,311.27714 1.3392857,282.17574 L 41.43986,148.98509 c 4.611576,-15.29544 23.8885,-42.30448 57.286572,-42.96472 h 30.075448 34.37196 c 32.43566,0.66024 51.79279,27.89844 57.28657,42.96472 l 40.1006,133.19065 c 8.1347,28.95816 -28.40842,40.84508 -37.23628,12.88936 l -35.8041,-123.16548 h -11.45732 l 63.01524,216.25572 H 180.3598 v 161.83399 c 0.4583,29.40221 -43.13678,29.25897 -42.96493,0 V 388.15534 Z"
+         inkscape:connector-curvature="0"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1" />
+      <circle
+         id="circle833"
+         r="46.545212"
+         cy="46.58577"
+         cx="511.90546"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1" />
+      <path
+         id="path835"
+         d="m 462.49589,106.02037 c -35.78976,0 -58.71876,30.98756 -58.71876,61.58276 v 143.21573 c -0.3294,27.98432 39.966,27.98432 40.10064,0 V 179.06038 h 10.02512 v 363.76815 c -0.62156,37.98085 53.04736,36.89241 52.99008,0 V 330.86906 h 8.593 v 211.95947 c 0.70176,36.89241 54.65136,37.98085 54.4222,0 V 179.06038 h 10.02516 v 131.75848 c -0.4726,28.19916 39.61368,28.19916 40.10056,0 V 167.60313 c -0.5728,-30.5952 -24.36108,-61.03424 -60.15084,-61.58276 z"
+         inkscape:connector-curvature="0"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1" />
+      <rect
+         id="rect837"
+         height="562.84003"
+         width="52.996765"
+         y="5.7684445"
+         x="297.79132"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1" />
+    </g>
+  </g>
+</svg>

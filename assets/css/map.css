@@ -1,0 +1,457 @@
+.st0 {
+  fill: none;
+  stroke: #f58634;
+  stroke-width: 13.9824;
+}
+.st1 {
+  fill: none;
+  stroke: #00a859;
+  stroke-width: 29.362;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+.st2 {
+  fill: none;
+  stroke: #ffcc29;
+  stroke-width: 29.362;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+.st3 {
+  fill: none;
+}
+.st4 {
+  fill: none;
+  stroke: #373435;
+  stroke-width: 3.8843;
+}
+.st5 {
+  fill: none;
+  stroke: #ffcc29;
+  stroke-width: 29.3631;
+  stroke-linecap: round;
+}
+.st6 {
+  fill: #a9abae;
+  stroke: #ffcc33;
+  stroke-width: 3.8843;
+}
+.st7 {
+  fill: #373435;
+}
+.st8 {
+  fill: #fefefe;
+  stroke: #373435;
+  stroke-width: 3.8843;
+}
+.st9 {
+  fill: none;
+  stroke: #373435;
+  stroke-width: 0.8389;
+}
+.st10 {
+  fill: #fefefe;
+  stroke: #ffcc29;
+  stroke-width: 3.8843;
+}
+.st11 {
+  fill: none;
+  stroke: #373435;
+  stroke-width: 9.2284;
+}
+.st12 {
+  fill: #fefefe;
+  stroke: #00a859;
+  stroke-width: 3.8843;
+}
+.st13 {
+  fill: #fefefe;
+}
+.st14 {
+  fill: none;
+  stroke: #fefefe;
+  stroke-width: 3.9151;
+}
+.st15 {
+  fill: #ffcc33;
+  stroke: #ffcc33;
+  stroke-width: 3.8843;
+}
+.st16 {
+  fill: #ffffff;
+  stroke: #000000;
+  stroke-width: 1.9575;
+}
+.st17 {
+  fill: #fefefe;
+  stroke: #373435;
+  stroke-width: 1.9575;
+}
+.st18 {
+  fill: #00a859;
+}
+.st19 {
+  fill: none;
+  stroke: #fefefe;
+  stroke-width: 2.7965;
+}
+.st20 {
+  fill: #96989a;
+}
+.st21 {
+  fill: none;
+  stroke: #96989a;
+  stroke-width: 9.2284;
+}
+.st22 {
+  fill: #f58634;
+  stroke: #f58634;
+  stroke-width: 3.8843;
+}
+.st23 {
+  fill: #a9abae;
+  stroke: #606062;
+  stroke-width: 1.9575;
+}
+.st24 {
+  fill: none;
+  stroke: #96989a;
+  stroke-width: 3.8843;
+}
+.st25 {
+  fill: none;
+  stroke: #a8518a;
+  stroke-width: 29.3631;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+.st26 {
+  fill: #fefefe;
+  stroke: #a8518a;
+  stroke-width: 3.8843;
+}
+.st27 {
+  fill: none;
+  stroke: #9dd3af;
+  stroke-width: 13.9824;
+}
+.st28 {
+  fill: #a9abae;
+  stroke: #9dd3af;
+  stroke-width: 3.8843;
+}
+.st29 {
+  fill: #ffffff;
+  stroke: #000000;
+  stroke-width: 3.8843;
+}
+.st30 {
+  fill: #ffcc29;
+}
+.st31 {
+  fill: none;
+  stroke: #ffcc29;
+  stroke-width: 19.4202;
+  stroke-linecap: square;
+  stroke-linejoin: round;
+}
+.st32 {
+  fill: none;
+  stroke: #00a859;
+  stroke-width: 19.4202;
+  stroke-linecap: square;
+  stroke-linejoin: round;
+}
+.st33 {
+  fill: none;
+  stroke: #f58634;
+  stroke-width: 13.9824;
+  stroke-linecap: square;
+  stroke-linejoin: round;
+}
+.st34 {
+  fill: none;
+  stroke: #008f4f;
+  stroke-width: 19.4202;
+  stroke-linecap: square;
+  stroke-linejoin: round;
+}
+.st35 {
+  fill: none;
+  stroke: #a8518a;
+  stroke-width: 19.4202;
+  stroke-linecap: square;
+  stroke-linejoin: round;
+}
+.st36 {
+  fill: none;
+  stroke: #9dd3af;
+  stroke-width: 13.9824;
+  stroke-linecap: square;
+  stroke-linejoin: round;
+}
+.st37 {
+  fill: none;
+  stroke: #fefefe;
+  stroke-width: 9.2284;
+}
+.st38 {
+  fill: none;
+  stroke: #fefefe;
+  stroke-width: 3.8843;
+}
+.st39 {
+  fill: #009966;
+}
+.st40 {
+  fill: #009966;
+  stroke: #fefefe;
+  stroke-width: 2.7965;
+}
+.st41 {
+  fill: none;
+  stroke: #008f4f;
+  stroke-width: 29.362;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+
+/* Train CSS */
+.train4 {
+  fill: none;
+  stroke: #542845;
+  stroke-width: 15;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+.train1 {
+  fill: none;
+  stroke: #7f6614;
+  stroke-width: 15;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+
+/*div box CSS */
+.stationdiv {
+  width: 350px;
+  background-color: #f2f2f2;
+  color: #2C2827;
+  margin: 20px;
+  font-family: 'Montserrat', sans-serif;
+  box-shadow: 2px 2px 2px 2px #E8E4E4;
+  border-radius: 30px 30px 30px 30px;
+}
+
+.linestation {
+  background-color: #bf0001;
+  color:white;
+  padding-top:2%;
+  padding-bottom:2%;
+  padding-left:2%;
+  text-align: left;
+  border-radius: 15px 15px 0px 0px;
+}
+
+.linestationconculsion {
+  background-color: #bf0001;
+  color:white;
+  padding-top:3%;
+  padding-bottom:2%;
+  padding-left:2%;
+  text-align: left;
+  border-radius: 0px 0px 15px 15px;
+}
+.nexttrain {
+  padding-left:2%;
+  padding-right:2%;
+  text-align: left;
+}
+.nextrain1{
+  display:flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  padding-top:7.25px;
+  padding-left: 5px;
+  padding-bottom: 7.25px;
+}
+
+.nextrainfirst{
+  display:flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  padding-top:2%;
+  padding-left: 5px;
+  padding-bottom: 7.25px;
+}
+
+
+.nextrainlast{
+  display:flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  padding-top:7.25px;
+  padding-left: 5px;
+  padding-bottom: 7.25px;
+}
+.nexttraindestination1{
+ font-size: 14px;
+ margin-left: 9px;
+}
+.stationiconline1 {
+  width: auto;
+  height:30px;
+  padding-top: 2%;
+}
+
+.nexttraintime1{
+ font-size: 17px;
+ margin-left: 9px;
+}
+.nexttraininfo {
+  display:flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.stationbutton {
+  background: #f2f2f2;
+  box-shadow: 0px 2px 0px #bf0001;
+  border: 0;
+  color: #333;
+  font-size: 13px;
+  padding: 7px 10px;
+  display: grid
+  text-align: left;
+}
+.stationbuttonparent{
+  width:auto;
+  float:left;
+  padding-top: 5px;
+  padding-left: 2%;
+}
+.stationbuttontext {
+  text-align: left;
+}
+
+.busroutelocal {
+  background-color: #bf0001;
+  border: none;
+  color: white;
+  height: 40px;
+  width: 60px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.busrouteexpress {
+  background-color: #0aa950;
+  border: none;
+  color: white;
+  height: 40px;
+  width: 60px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.busrow {
+  width: 100%;
+  float:left;
+  padding-top: 5px;
+}
+
+
+.busroutenight {
+  background-color: #00144e;
+  border: none;
+  color: white;
+  height: 40px;
+  width: 60px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.busrouteforeign{
+  background-color: #d69261;
+  border: none;
+  color: white;
+  height: 40px;
+  width: 60px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.busrouteyrtlocal{
+  background-color: #87cefa;
+  border: none;
+  color: black;
+  height: 40px;
+  width: 60px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.busrouteyrtseasonal{
+  background-color: #b22222;
+  border: none;
+  color: white;
+  height: 40px;
+  width: 60px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.busroutego{
+  background-color: #7cfc00;
+  border: none;
+  color: black;
+  height: 40px;
+  width: 60px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.busroutevivablue{
+  background-color: #119dd9;
+  border: none;
+  color: white;
+  height: 40px;
+  width: 60px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  font-family: 'Montserrat', sans-serif;
+}
+.busroutevivapink{
+  background-color: #e8509f;
+  border: none;
+  color: white;
+  height: 40px;
+  width: 60px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  font-family: 'Montserrat', sans-serif;
+}
